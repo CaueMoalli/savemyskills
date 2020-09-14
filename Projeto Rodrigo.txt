@@ -1,0 +1,33 @@
+PROJETÃO RODRIGO (Save My Skill)
+
+PRAZO: 29/09 - Consolidado o que é pra fazer
+	   12/10 - A porra toda pronta pra fazer o frontend (FRONT NO MÁXIMO VAI TER QUE FAZER A AUTENTICAÇÃO)
+	   
+Dica: Login - Na response do login tem que voltar um tokken
+
+Como fazer um servidor (Heroku)
+Fazer uma database (SQL / Node)
+
+Database: Login, senha, lista
+Criar projeto no GitHub (criar junto com o Rodrigo)
+
+o Login vai ser um "POST"
+
+Primeiro passo: Criar app (Save My Skills) no Heroku com node e banco (SQL);
+Segundo passo: Fazer a auth
+
+https://www.youtube.com/watch?v=Ud5xKCYQTjM (Build Node.js User Authentication - Password Login)
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true
+
+https://devcenter.heroku.com/articles/deploying-nodejs
+
+https://jasonwatmore.com/post/2018/09/24/nodejs-basic-authentication-tutorial-with-example-api
+
+PROPOSTA DO APP: Save My Skills
+
+Resumo de atributos, bonus e habilidades para fichas de D&D
+
+DATABASE:
+
+Senha, login, USER, PERSONAGENS

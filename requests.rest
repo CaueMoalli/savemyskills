@@ -1,0 +1,22 @@
+###TESTING REQUESTS - USES "REST CLIENT" EXTENSIONS
+
+### VIEW DATABASE
+GET http://localhost:3000/users
+
+### SIMULATE NEW USER INPUT
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+    "name": "CobaiaA",
+    "password": "senhacobaiaA"
+}
+
+### SIMULATE LOGIN ATTEMPT
+POST http://localhost:3000/users/login
+Content-Type: application/json
+
+{
+    "name": "CobaiaA",
+    "password": "senhacobaiaA"
+}
